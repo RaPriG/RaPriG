@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=raprig&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=raprig&show_icons=true&title_color=007F7B&icon_color=00DA9E&text_color=151515&hide=["stars"])
 
 <!--
 **RaPriG/RaPriG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

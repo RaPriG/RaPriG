@@ -5,7 +5,7 @@ Ingeniero de sistema y Full Stack Developer.
 Soy muy enfocado en mi trabajo, disciplinado, creativo, autodidacta y me apasiona aprender nuevas tecnologías. 
 Disfruto del trabajo en equipo, ya que el crecimiento y aprendizaje, tanto profesional como personal, en equipo, son únicos!
 
-¿Qué Tecnologias manejo?
+**¿Qué Tecnologias manejo?**
 
 *	JavaScript
 *	HTML

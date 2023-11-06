@@ -7,7 +7,8 @@ Disfruto del trabajo en equipo, ya que el crecimiento y aprendizaje, tanto profe
 
 **¿Qué Tecnologias manejo?**
 
-En los últimos 5 años, he trabajado en un sistema administrativo y contable utilizando el lenguaje de programación C# WinForm y la base de datos MySQL junto con Xampp. Además, adquirí conocimientos en desarrollo Full Stack durante un bootcamp de 800 horas en la academia Henry, en la cual pudimos realizar varios proyectos. Aquí dejo la lista de las tecnologías:
+En los últimos 5 años, he trabajado en un sistema administrativo y contable utilizando el lenguaje de programación C# WinForm y la base de datos MySQL junto con Xampp. Además, adquirí conocimientos en desarrollo Full Stack durante un bootcamp de 800 horas en la academia Henry, en la cual pudimos realizar varios proyectos. 
+Aquí dejo la lista de las tecnologías:
 *	JavaScript
 *	HTML
 *	CSS

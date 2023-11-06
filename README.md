@@ -7,8 +7,8 @@ Disfruto del trabajo en equipo, ya que el crecimiento y aprendizaje, tanto profe
 
 ¿Qué Tecnologias manejo?
 
-•	JavaScript
-•	HTML
+*	JavaScript
+*	HTML
 •	CSS
 •	Bootstrap
 •	React JS
